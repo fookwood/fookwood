@@ -6,8 +6,4 @@
 
 我主攻Java相关领域，曾从事Android开发6年，主要熟悉UI绘制和逆向分析，后从事Java后端，擅长使用Spring全家桶。著有译作[《Java性能权威指南(第2版)》](https://item.jd.com/13727420.html)，我偶尔会写些文章在[闷瓜蛋子的博客](https://fookwood.com/)上。Github上还没有什么作品，希望接下来会有
 
-你可以通过以下方式联系到我
-* 邮箱 dangwenliang@gmail.com
-* 微信 fookwood
-* 推特 https://twitter.com/fookwood
-* 微博 https://weibo.com/u/1485076271
+你可以左侧的个人信息联系我
